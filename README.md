@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel Konarski</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gabriel+Konarski)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Docker**
 - 💬 Ask me about **Python, Django**
